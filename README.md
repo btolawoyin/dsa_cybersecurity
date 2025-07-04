@@ -128,7 +128,7 @@ This project is for **educational and lawful forensic investigation purposes onl
 
 **Bukola Tolawoyin**  
 Cybersecurity & Forensics Researcher | Software Engineer | Agricultural Investor  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) (update your link)
+🔗 [LinkedIn]([https://www.linkedin.com/in/bukkyolawoyin/])
 
 ---
 

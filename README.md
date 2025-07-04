@@ -133,5 +133,5 @@ Cybersecurity & Forensics Researcher | Software Engineer | Agricultural Investor
 ---
 
 ## 📄 License
-
-MIT License – see `LICENSE` file for details.
+> This project is for educational and non-commercial use only.  
+> MIT License – see `LICENSE` file for details.

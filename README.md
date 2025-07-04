@@ -126,9 +126,9 @@ This project is for **educational and lawful forensic investigation purposes onl
 
 ## 👨🏽‍💻 Author
 
-**Bukola Tolawoyin**  
+**Bukky Olawoyin**  
 Cybersecurity & Forensics Researcher | Software Engineer | Agricultural Investor  
-🔗 [LinkedIn]([https://www.linkedin.com/in/bukkyolawoyin/])
+🔗 [LinkedIn](https://www.linkedin.com/in/bukkyolawoyin/)
 
 ---
 
